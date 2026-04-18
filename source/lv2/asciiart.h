@@ -11,7 +11,7 @@ static char* asciiart = "\n"
 "   / ___// ____/ __ \\ |  / /  _/ ____/ ____/ ___/     \n"
 "   \\__ \\/ __/ / /_/ / | / // // /   / __/  \\__ \\      \n"
 "  ___/ / /___/ _, _/| |/ // // /___/ /___ ___/ /      \n"
-" /____/_____/_/ |_| |___/___/\\____/_____//____/       \n"
-"\n";
+" /____/_____/_/ |_| |___/___/\\____/_____//____/       \n\n";
 
-"              POWERED BY KAR'S Custom XeLL RELOADED - Xenon Linux Loader\n\n";
+static char* asciitail =
+"             POWERED BY KAR'S XeLL RELOADED - Xenon Linux Loader\n\n";
