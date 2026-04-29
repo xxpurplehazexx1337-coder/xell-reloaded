@@ -12,5 +12,5 @@ static char* asciiart = "\n"
 "   \\_____\\____/|_| \\_|_____/ \\____/|______|______|_____/\n\n";
 
 static char* asciitail =
-"              POWERED BY Kevin's XeLL RELOADED - Xenon Linux Loader\n"
+"              POWERED BY Kevin's Custom XeLL RELOADED - Xenon Linux Loader\n"
 "  Copyright (C) 2001-2010 Microsoft Corporation. All rights reserved.\n\n";
